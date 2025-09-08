@@ -5,14 +5,14 @@ To write a CPP Program to overload a function to perform sum of two integers and
 
 
 ## Algorithm:
-1.Start the program.
-2.Define a class Addition with two overloaded functions named sum:
-3.One function takes two integer arguments and returns their sum.
-4.Another function takes three integer arguments and returns their sum.
-5.In the main() function, create an object of the class.
-6.Call both overloaded functions to compute the sum of two and three integers.
-7.Display the results.
-8.End the program.
+1. Start the program.
+2. Define a class Addition with two overloaded functions named sum:
+3. One function takes two integer arguments and returns their sum.
+4. Another function takes three integer arguments and returns their sum.
+5. In the main() function, create an object of the class.
+6. Call both overloaded functions to compute the sum of two and three integers.
+7. Display the results.
+8. End the program.
 
 
 
